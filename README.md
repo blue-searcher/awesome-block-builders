@@ -17,6 +17,7 @@ For a complete list of every block builder that lands blocks on-chain see [mev-b
 | payload | https://rpc.payload.de | |
 | rsync-builder | https://rsync-builder.xyz/ | |
 | nfactorial | https://rpc.nfactorial.xyz/ | |
+| lokibuilder | https://rpc.lokibuilder.xyz/ | |
 
 # Dashboards
 - [Builder profitability](https://www.relayscan.io/builder-profit?t=24h)
