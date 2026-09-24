@@ -16,6 +16,7 @@ For a complete list of every block builder that lands blocks on-chain see [mev-b
 | buildAI | https://BuildAI.net | |
 | payload | https://rpc.payload.de | |
 | rsync-builder | https://rsync-builder.xyz/ | |
+| Zund | https://zundbuilder.com | No account needed. 90% of the builder surplus refunded to searchers. Sandwich bundles rejected. |
 | nfactorial | https://rpc.nfactorial.xyz/ | |
 | lokibuilder | https://rpc.lokibuilder.xyz/ | |
 
