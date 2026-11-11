@@ -18,7 +18,7 @@ For a complete list of every block builder that lands blocks on-chain see [mev-b
 | rsync-builder | https://rsync-builder.xyz/ | |
 | nfactorial | https://rpc.nfactorial.xyz/ | |
 | lokibuilder | https://rpc.lokibuilder.xyz/ | |
-| Aqua Builder | https://rpc.aquabuilder.online | Free, no account. `refundPercent`/`refundRecipient` required (91% refunds). Flashbots-compatible: `eth_sendBundle`, `eth_callBundle`, `eth_cancelBundle`, `mev_sendBundle`. extra_data `Aqua Builder`. [Docs](https://aquabuilder.online/docs/) |
+| Aqua Builder | https://rpc.aquabuilder.online | Free, no account. `refundPercent`/`refundRecipient` required (91% refunds, capped at 91% of builder profit). Flashbots-compatible: `eth_sendBundle`, `eth_callBundle`, `eth_cancelBundle`, `mev_sendBundle`. extra_data `Aqua Builder`. [Docs](https://aquabuilder.online/docs/) |
 
 # Dashboards
 - [Builder profitability](https://www.relayscan.io/builder-profit?t=24h)
